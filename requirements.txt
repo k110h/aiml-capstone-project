@@ -4,7 +4,8 @@ sentence-transformers
 rank-bm25
 openai
 numpy
-torch
+torch==2.2.2
+torchvision
 scikit-learn
 nltk
 pypdf
