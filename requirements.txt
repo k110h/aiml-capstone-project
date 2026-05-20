@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+sentence-transformers
+rank-bm25
+openai
+numpy
+torch
+scikit-learn
+nltk
+pypdf
+langchain
