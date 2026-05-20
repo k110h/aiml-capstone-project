@@ -3,8 +3,8 @@ faiss-cpu
 sentence-transformers
 rank-bm25
 openai
-numpy
-torch==2.2.2
+numpy>=2.0
+torch
 torchvision
 scikit-learn
 nltk
